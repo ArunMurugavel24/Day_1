@@ -7,4 +7,4 @@ Day 1 Project of my "[100 Days of Web Coding](https://github.com/ArunMurugavel24
 
 # Contribute
 
-If you wanted to contribute to my project, you can do so [here]().
+If you wanted to support me, you can do so [here]().
