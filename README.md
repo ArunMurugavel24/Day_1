@@ -1,5 +1,5 @@
 # Day_1
-Day 1 Project of my "[100 Days of Web Coding](https://github.com/ArunMurugavel24/100_Days_of_Web_Coding)" Challenge.
+Day 1 Project of my "[100 Days of Web Development](https://github.com/ArunMurugavel24/100_Days_of_Web_Coding)" Challenge.
 
 # Preview
 
